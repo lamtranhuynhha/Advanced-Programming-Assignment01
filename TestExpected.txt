@@ -1,0 +1,101 @@
+---Test Knight and Warrior---
+Test 0: Knight = 200.00, Warrior = 100.00
+Test 1: Knight = 999.00, Warrior = 999.00
+Test 2: Knight = 999.00, Warrior = 500.00
+Test 3: Knight = 999.00, Warrior = 501.00
+Test 4: Knight = 18.00, Warrior = 9.00
+Test 5: Knight = 200.00, Warrior = 10.00
+Test 6: Knight = 999.00, Warrior = 99.90
+Test 7: Knight = 999.00, Warrior = 50.00
+Test 8: Knight = 999.00, Warrior = 50.10
+Test 9: Knight = 18.00, Warrior = 0.90
+Test 10: Knight = 100.00, Warrior = 200.00
+Test 11: Knight = 999.00, Warrior = 999.00
+Test 12: Knight = 500.00, Warrior = 999.00
+Test 13: Knight = 501.00, Warrior = 999.00
+Test 14: Knight = 9.00, Warrior = 18.00
+Test 15: Knight = 10.00, Warrior = 200.00
+Test 16: Knight = 99.90, Warrior = 999.00
+Test 17: Knight = 50.00, Warrior = 999.00
+Test 18: Knight = 50.10, Warrior = 999.00
+Test 19: Knight = 0.90, Warrior = 18.00
+Test 20: Knight = 100.00, Warrior = 100.00
+Test 21: Knight = 999.00, Warrior = 999.00
+Test 22: Knight = 500.00, Warrior = 500.00
+Test 23: Knight = 501.00, Warrior = 501.00
+Test 24: Knight = 9.00, Warrior = 9.00
+Test 25: Knight = 10.00, Warrior = 10.00
+Test 26: Knight = 99.90, Warrior = 99.90
+Test 27: Knight = 50.00, Warrior = 50.00
+Test 28: Knight = 50.10, Warrior = 50.10
+Test 29: Knight = 0.90, Warrior = 0.90
+---Test Paladin---
+Test 0: Paladin = 0.00
+Test 1: Paladin = 3.00
+Test 2: Paladin = 3.00
+Test 3: Paladin = 1003.00
+Test 4: Paladin = 1004.00
+Test 5: Paladin = 1005.00
+Test 6: Paladin = 1006.00
+Test 7: Paladin = 1007.00
+Test 8: Paladin = 1008.00
+Test 9: Paladin = 1009.00
+Test 10: Paladin = 1010.00
+Test 11: Paladin = 1011.00
+Test 12: Paladin = 1012.00
+Test 13: Paladin = 1013.00
+Test 14: Paladin = 1014.00
+Test 15: Paladin = 1015.00
+Test 16: Paladin = 1016.00
+Test 17: Paladin = 1017.00
+Test 18: Paladin = 1018.00
+Test 19: Paladin = 1019.00
+Test 20: Paladin = 1020.00
+Test 21: Paladin = 1021.00
+Test 22: Paladin = 1022.00
+Test 23: Paladin = 1023.00
+Test 24: Paladin = 1024.00
+Test 25: Paladin = 1025.00
+Test 26: Paladin = 1026.00
+Test 27: Paladin = 1027.00
+Test 28: Paladin = 1028.00
+Test 29: Paladin = 1029.00
+Test 30: Paladin = 1030.00
+Test 31: Paladin = 27.00
+Test 32: Paladin = 30.00
+Test 33: Paladin = 30.00
+Test 34: Paladin = 33.00
+Test 35: Paladin = 36.00
+Test 36: Paladin = 42.00
+Test 37: Paladin = 51.00
+Test 38: Paladin = 66.00
+Test 39: Paladin = 90.00
+Test 40: Paladin = 129.00
+Test 41: Paladin = 192.00
+Test 42: Paladin = 294.00
+Test 43: Paladin = 459.00
+Test 44: Paladin = 726.00
+Test 45: Paladin = 1158.00
+Test 46: Paladin = 1857.00
+Test 47: Paladin = 2988.00
+Test 48: Paladin = 4818.00
+Test 49: Paladin = 7779.00
+Test 50: Paladin = 12570.00
+Test 51: Paladin = 20322.00
+Test 52: Paladin = 32865.00
+Test 53: Paladin = 53160.00
+Test 54: Paladin = 85998.00
+Test 55: Paladin = 139131.00
+Test 56: Paladin = 225102.00
+Test 57: Paladin = 364206.00
+Test 58: Paladin = 589281.00
+Test 59: Paladin = 953460.00
+Test 60: Paladin = 1542714.00
+---Test DeathEater---
+Test 0: DeathEater = 0.00
+Test 1: DeathEater = 5.00
+Test 2: DeathEater = 360.56
+Test 3: DeathEater = 360.56
+Test 4: DeathEater = 40.02
+Test 5: DeathEater = 40.05
+All tests completed.
