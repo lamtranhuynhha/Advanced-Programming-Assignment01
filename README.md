@@ -16,6 +16,8 @@ Part B: Contains fixed classes that must be implemented. These classes define di
 
 Part C: Includes customizable classes that can be modified based on the implementation needs.
 
+![Class Diagram](classdiagram.png)
+
 ⚙️ Installation
 
 Clone this repository
